@@ -6,6 +6,9 @@ import jade.core.behaviours.SequentialBehaviour;
 import jade.core.behaviours.SimpleBehaviour;
 import jade.core.behaviours.WakerBehaviour;
 
+/**
+ * @author MiaoJiaxin
+ */
 public class FirstAgent extends Agent {
 
     private OneShotBehaviour oneShotBehaviour = new MyOneShotBehaviour();
@@ -13,6 +16,10 @@ public class FirstAgent extends Agent {
 
     @Override
     protected void setup() {
+
+        this.addBehaviour(new SendBehaviour(this));
+
+/*
         System.out.println("Hello World !");
         addBehaviour(oneShotBehaviour);
         sequentialBehaviour.addSubBehaviour(new OneShotBehaviour() {
@@ -41,5 +48,7 @@ public class FirstAgent extends Agent {
         });
         addBehaviour(sequentialBehaviour);
         addBehaviour(new MyMFSBehaviour(this));
+*/
     }
+
 }

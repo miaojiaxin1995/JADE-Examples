@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5229c279-76a0-4c0d-9e3f-b47e5acb1afd" name="Default Changelist" comment="" />
+    <list default="true" id="5229c279-76a0-4c0d-9e3f-b47e5acb1afd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APDescription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APDescription.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jade-IDEA/META-INF/Jade-IDEA.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -36,7 +43,20 @@
       <recent name="E:\hust\bysj\code\Jade-IDEA\lib" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.jade">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+      <module name="Jade-IDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jade" type="Application" factoryName="Application">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="jade.Boot" />
@@ -46,6 +66,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -70,7 +95,19 @@
       <option name="presentableId" value="Default" />
       <updated>1575359066655</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1576827772268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576827772268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="381" y="276" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576055860916">
@@ -81,26 +118,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576055287751" />
-    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1576225730815">
+    <state x="598" y="106" key="CommitChangelistDialog2" timestamp="1576827770422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576225730815" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1576057574540">
+    <state x="598" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576827770422" />
+    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1578294163692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576057574540" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1576057574540">
+    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578294163692" />
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1577455362784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576057574540" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1576057574540">
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577455362784" />
+    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1577455362784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576057574540" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1576057574540">
+    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577455362784" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1577455362784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576057574540" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577455362784" />
+    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1577455362784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577455362784" />
     <state x="614" y="217" key="NewModule_or_Project.wizard" timestamp="1576225243067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -109,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575361493602" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1576225174853">
+    <state x="384" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1578294059406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576225174853" />
+    <state x="384" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578294059406" />
     <state x="334" y="129" key="new project wizard" timestamp="1575359242234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
